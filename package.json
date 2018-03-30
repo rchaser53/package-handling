@@ -1,0 +1,31 @@
+{
+  "name": "package-handling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rchaser53/package-handling.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rchaser53/package-handling/issues"
+  },
+	"homepage": "https://github.com/rchaser53/package-handling#readme",
+	"dependencies": {
+		"prettier": "^1.11.1"
+	},
+  "devDependencies": {
+    "jest": "^22.4.3",
+    "tslint": "^5.9.1",
+    "typescript": "^2.8.1"
+	},
+	"peerDependencies": {
+		"webpack": "^4.4.1"
+	}
+}
